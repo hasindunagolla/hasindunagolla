@@ -1,7 +1,6 @@
 <h1 align="center"><b>Hi 👋, I'm Hasindu Lakshan</b></h1>
 <h3 align="center">I'm currently studying at The Open University of Sri Lanka.</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
-
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1360/1*IRGHmiGsa16stedQvIaZfw.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hasindunagolla&label=Profile%20views&color=0e75b6&style=flat" alt="hasindunagolla" /> </p>
 
